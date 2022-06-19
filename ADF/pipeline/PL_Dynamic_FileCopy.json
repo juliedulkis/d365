@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "CopyDynameFile",
+				"description": "This is to copy dynamic files",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
