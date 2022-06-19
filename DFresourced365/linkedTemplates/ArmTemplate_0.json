@@ -261,6 +261,7 @@
 				"activities": [
 					{
 						"name": "Copy data1",
+						"description": "Copies data",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
