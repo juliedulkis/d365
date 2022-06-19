@@ -1,0 +1,9 @@
+{
+	"name": "DFresourced365",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "940c89c7-db21-4029-a61d-f0254bd17a35",
+		"tenantId": "cc81c749-fe1e-4f78-83ea-8ee92fd49ee9"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "DS_Storgage_D365Reports_target",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_D365_Storage_Purchase",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "target"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
